@@ -34,4 +34,4 @@
 
 - GitHub: [mdkrain](https://github.com/mdkrain)
 - Blog: [dkrain.com](https://dkrain.com)
-- 欢迎通过博客留言或 issue 交流！
+- 欢迎通过邮箱留言或 issue 交流！
